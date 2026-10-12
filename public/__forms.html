@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Netlify Forms Blueprint</title>
+</head>
+<body>
+  <!-- Netlify Plugin v5 explicit build-time registration anchor -->
+  <form name="enterprise-demo-requests" data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="enterprise-demo-requests" />
+    <input type="text" name="name" />
+    <input type="email" name="email" />
+    <input type="text" name="company" />
+    <input type="text" name="solution" />
+    <input type="text" name="bot-field" />
+  </form>
+
+  <form name="enterprise-portal-consultation" data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="enterprise-portal-consultation" />
+    <input type="email" name="email" />
+    <input type="text" name="company" />
+    <input type="text" name="goal" />
+    <textarea name="parameters"></textarea>
+    <input type="text" name="bot-field" />
+  </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "short_name": "LogicMinds",
+  "name": "LogicMinds Technologies Corporate Client",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#0EA5E9",
+  "display": "standalone",
+  "orientation": "portrait"
+}
