@@ -11,11 +11,11 @@ export const metadata = {
   openGraph: {
     title: "LogicMinds Technologies | Enterprise Infrastructure",
     description: "High-performance, lightweight installable PWAs redefining Task Management, Dev infrastructure telemetry, and zero-knowledge data isolation.",
-    url: "https://mmarrevillaga07-dev.github.io/LogicMinds", // ⚠️ Update this to your GitHub Pages URL
+    url: "https://mmarrevillaga07-dev.github.io/LogicMinds",
     siteName: "LogicMinds",
     images: [
       {
-        url: "og-image.png", // ⚠️ We will create this image next!
+        url: "https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png",
         width: 1200,
         height: 630,
         alt: "LogicMinds Enterprise Infrastructure Platform Banner",
@@ -30,7 +30,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "LogicMinds Technologies | Enterprise Infrastructure",
     description: "High-performance, lightweight installable PWAs redefining Task Management.",
-    images: ["https://github.ioog-image.png"],
+    images: ["https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png"],
   },
 };
 
