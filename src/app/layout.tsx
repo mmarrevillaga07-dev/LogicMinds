@@ -10,7 +10,7 @@ export const metadata = {
   // 🌐 Open Graph / Facebook / LinkedIn
   openGraph: {
     title: "LogicMinds Technologies | Enterprise Infrastructure",
-    description: "High-performance, lightweight installable PWAs redefining Task Management, Dev infrastructure telemetry, and zero-knowledge data isolation.",
+    description: "High-performance, lightweight installable PWAs redefining Task Management.",
     url: "https://mmarrevillaga07-dev.github.io/LogicMinds",
     siteName: "LogicMinds",
     images: [
