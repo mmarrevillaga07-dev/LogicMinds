@@ -15,7 +15,7 @@ export const metadata = {
     siteName: "LogicMinds",
     images: [
       {
-        url: "https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png",
+        url: "https://mmarevillaga07-dev.github.io/LogicMinds/og-image.png",
         width: 1200,
         height: 630,
         alt: "LogicMinds Enterprise Infrastructure Platform Banner",
@@ -30,7 +30,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "LogicMinds Technologies | Enterprise Infrastructure",
     description: "High-performance, lightweight installable PWAs redefining Task Management.",
-    images: ["https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png"],
+    images: ["https://mmarevillaga07-dev.github.io/LogicMinds/og-image.png"],
   },
 };
 
