@@ -15,7 +15,7 @@ export const metadata = {
     siteName: "LogicMinds",
     images: [
       {
-        url: "https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png",
+        url: "https://mmarrevillaga07-dev.github.io/LogicMinds/src/app/og-image.png",
         width: 1200,
         height: 630,
         alt: "LogicMinds Enterprise Infrastructure Platform Banner",
@@ -30,18 +30,14 @@ export const metadata = {
     card: "summary_large_image",
     title: "LogicMinds Technologies | Enterprise Infrastructure",
     description: "High-performance, lightweight installable PWAs redefining Task Management.",
-    images: ["https://mmarrevillaga07-dev.github.io/LogicMinds/public/og-image.png"],
+    images: ["https://mmarrevillaga07-dev.github.io/LogicMinds/src/app/og-image.png"],
   },
 };
 
 
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return (
+export default function RootLayout({ children }: { children: React.ReactNode })
+{ return (
     <html lang="en" className="scroll-smooth">
       <body className="flex min-h-screen flex-col bg-brand-dark text-slate-100 antialiased selection:bg-brand-accent selection:text-white">
         <Navbar />
